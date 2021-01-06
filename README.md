@@ -12,7 +12,7 @@ Clone repository and run the config script. which will check if " xclip " instal
 ```
 $ git clone https://github.com/Mudassiruddin/blindOS
 $ cd blindOS
-$ ./config.sh
+$ sudo bash config.sh
 ```
 ## Usage
 ```
